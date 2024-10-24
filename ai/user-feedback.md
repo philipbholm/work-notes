@@ -1,0 +1,39 @@
+# CRAI meeting notes
+- Klinisk Datavarehus OUS
+	- Skal utfases for RDAP
+- Komersielle platform for klinikker (radiology)
+	- Orch dataflyt
+	- Tredjeparts AI-modeller
+	- Sectra (Azure)
+	- App store for AI-løsninger (subscriptions)
+- Kobling av pasienter (viktig når pasienten døde)
+- Mål om å tilby alle komersielle AI-løsninger
+- Tilgang til sanntidsdata/informasjon fra ulike systemer
+- Vanskelig å få tilgang til all data 
+- Tilgangsstyring er vanskelig (kan ta 3 mnd å få tilgang til medinsight)
+- Bruker 70% av tid til å få tilgang på data
+	- Veldig vanskelig å koble sammen data (pseudonomysert)
+	- Vanskelig å finne når pasienten døde
+- Datadeling er veldig vanskelig
+- Sender modell i container til USA for testing
+	- Tar langt tid 
+- Samler data til TSD
+	- Tar langt tid å få tilgang til programvare
+	- Vanskelig å bruke systemene 
+	- Liker å prototype lokalt 
+- Vanskelig å hoste lokalt pga sykehuspartner
+- MRI på tvers av landet finnes ikke 
+	- Skal komme regionalt system, men fortsatt ikke nasjonale koblinger
+- Det er vanskelig å koble MRI bilder på 
+	- DICOM-kommunikasjonsprotocol for PACS
+- Vanskelig å få tilgang til DIPS
+	- Tilgang til data fra DIPS via medinsight som er vanskelig
+- Platform for alle register man kan søke om data fra?
+	- En feed med data
+- Mangler kobling med radiologisk metadata
+- Arbeidsflyt
+	- Finner pasienter i klinisk dvh med metastaser
+	- Så må man i PACS for å finne den riktige MRI-undersøkelsen
+- https://www.opensafely.org/
+- https://teknisk.norid.no/en/integrere-mot-norid/rdap-tjenesten/
+- https://ehandboken.ous-hf.no/document/130388
